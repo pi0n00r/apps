@@ -1,7 +1,7 @@
 images:
   image:
-    repository: ghcr.io/truenas/containers/nextcloud-fpm
-    tag: "35.0.3-fpm-a93466a1@sha256:d349cd910381a5472ffb02e7edbbfbb3e8d0fbf68d1c673efe15e5c914ee9ab6"
+    repository: ghcr.io/pi0n00r/nextcloud-fpm
+    tag: "34.0.6-fpm-9d679b04@sha256:8c76f0f120abcdc1215eb5018fc14b26ac7efab16b72221e1217494b32feac92"
   container_utils_image:
     repository: ghcr.io/truenas/containers/container-utils
     tag: "1.1.2@sha256:6ddfdc314af9d18cfacb836ad266ef0ed91fecaa3686b20be72e464972860c08"
