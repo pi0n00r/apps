@@ -1,4 +1,4 @@
-app_version: 34.0.6-fpm-33f55a5f
+app_version: 34.0.6-fpm-6e24ee63
 capabilities:
 - description: Harp is able to bypass file permission checks
   name: DAC_OVERRIDE

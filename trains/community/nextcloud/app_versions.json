@@ -6180,10 +6180,10 @@
     "location": "/workspace/trains/community/nextcloud/1.2.1",
     "last_update": "2026-11-18 07:30:00",
     "required_features": [],
-    "human_version": "34.0.6-fpm-33f55a5f_1.2.1",
+    "human_version": "34.0.6-fpm-6e24ee63_1.2.1",
     "version": "1.2.1",
     "app_metadata": {
-      "app_version": "34.0.6-fpm-33f55a5f",
+      "app_version": "34.0.6-fpm-6e24ee63",
       "capabilities": [
         {
           "description": "Harp is able to bypass file permission checks",
@@ -9202,7 +9202,7 @@
     "readme": "<h1>Nextcloud</h1> <p><a href=\"https://nextcloud.com/\">Nextcloud</a> is a file sharing server that puts the control and security of your own data back into your hands.</p> <p>This Community package pins the maintained Nextcloud 34 line and uses immutable container digests. Optional HaRP, notify-push, Talk, recording, Imaginary, PostgreSQL, Valkey and Nginx services are managed as one application while retaining separate persistent storage and secret inputs.</p> <!-- x-readme:warnings:start -->  <p>⚠️ <strong>WARNING:</strong> This app has access to the Docker socket, which gives it full control over all containers and effectively root access to the system.</p> <p>Misconfiguration or a malicious update can compromise data integrity, security, or system stability. Install at your own risk.</p> <!-- x-readme:warnings:end -->",
     "changelog": null,
     "chart_metadata": {
-      "app_version": "34.0.6-fpm-33f55a5f",
+      "app_version": "34.0.6-fpm-6e24ee63",
       "capabilities": [
         {
           "description": "Harp is able to bypass file permission checks",
